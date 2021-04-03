@@ -14,7 +14,8 @@ My largest contribution is this field is the co-creation of [Asteroid](https://g
 
 ----
 **Updates:**
-- *Date*: Winning the hackathon.
-- *Date*: Jury's price for DCASE Task 4.
-- *Date*: JSALT Workshop.
-- *Date*: I'll be leaving ENS and joining the Multispeech team. 
+- *November 2020*: Our team (Samuele Cornell, Michel Olvera, Giovanni Pepe, EmanuelePrincipi, Leonardo Gabrielli, Stefano Squartini and me) won the jury's price for the most innovative approach for DCASE Task 4.
+- *October 2020*: Our team (Samuele Cornell, Fabian-Robert Stöter, Michel Olvera, Jonas Haag and me) **won the [PyTorch Summer Hackathon 2020](https://pytorch2020.devpost.com/)** with our [Asteroid/DeMask submission](https://devpost.com/software/asteroid-the-pytorch-based-source-separation-toolkit).
+- *October 2019*: We are releasing [Asteroid](https://github.com/asteroid-team/asteroid), a PyTorch toolkit for researchers in speech separation and enhancement. Hop on and help us! 
+- *July 2019*: I'm participating to the [JSALT 2019](https://www.clsp.jhu.edu/workshops/19-workshop/) summer school and workshop where I'll be working on robust multichannel speech separation and speech enhancement.
+- *September 2018*: I'll be leaving the ENS and joining the [Multispeech team](https://www.inria.fr/en/multispeech)) at [Inria Nancy](https://www.inria.fr/en/centre-inria-nancy-grand-est) to start a PhD on generative models of speech, with an emphasis of phase modeling!
