@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Hi, I'm Manu 
+title: Hi, I'm Manu 
 ---
 
 I'm originally a physicist, with a Master's in cognitive science, now a third year computer science PhD student in [Inria Nancy](https://www.inria.fr/en/centre-inria-nancy-grand-est) in the [Multispeech team](https://www.inria.fr/en/multispeech), supervised by [Antoine Deleforge](https://members.loria.fr/ADeleforge/) and [Emmanuel Vincent](https://members.loria.fr/EVincent/). 
